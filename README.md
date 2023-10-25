@@ -13,6 +13,7 @@ Junior Front-end Developer from Utrecht
 
 ✉️ How to reach me: kodie@live.nl
 
+⚡ Fun fact: I once ran a 100m 2,5 seconds slower the Usain Bolt!
 
 Languages and tools:
 
