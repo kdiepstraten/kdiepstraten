@@ -3,7 +3,7 @@
 
 Hey my name is Koen
 
-Junior Front-end Developer from Utrecht
+Junior Fullstack Developer from Utrecht
 
 🔬 I'm currently studying to become a front-end developer
 
